@@ -5,6 +5,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
 #include <MHZ19.h>
+#include <MHZ19PWM.h>
 #include <dht11.h>         
 
 char auth[] = "Blynk Auth Token";
